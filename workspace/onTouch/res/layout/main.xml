@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+<TextView  android:id="@+id/tv"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    />
+<EditText android:layout_x="4dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/xx" android:layout_y="26dp"></EditText>
+<EditText android:layout_x="6dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/yy" android:layout_y="78dp"></EditText>
+</AbsoluteLayout> 

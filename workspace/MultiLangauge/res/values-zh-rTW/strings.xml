@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">aBMI</string>
+    <string name="app_label">BMI 英制計算器</string>
+    <string name="us_height">身高</string>
+    <string name="feet_prompt">選擇呎</string>
+    <string name="inch_prompt">選擇吋</string>
+    <string name="pound">體重 (lbs)</string>
+    <string name="bmi_btn">計算BMI 值</string>
+    <string name="bmi_result">你的BMI值是...</string>
+    <string name="input_error">哦哦， 欄位中只能輸入數字喔</string>
+    <string name="advice_light">你該多吃點</string>
+    <string name="advice_average">你的體型很不錯，好好保持</string>
+    <string name="advice_heavy">你應該減肥囉！</string>
+    <string name="advice_fat">為了健康，你應該馬上採取一些行動了！</string>
+    <string name="about_label">關於...</string>
+    <string name="about_title">關於 aBMI 1.0</string>
+    <string name="about_msg">aBMI是個BMI值計算器程式。</string>
+    <string name="ok_label">OK</string>
+</resources>

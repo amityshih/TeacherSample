@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/absLayout"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<ImageButton
+	android:id="@+id/myImageBtn1"
+	android:background="@drawable/default_wallpaper"
+	android:layout_width="125px"
+	android:layout_height="131px"
+	android:layout_x="10px"
+	android:layout_y="12px" >
+</ImageButton>
+
+<ImageView
+	android:id="@+id/myImageView1"
+	android:background="@drawable/ic_launcher_android"
+	android:layout_width="108px"
+	android:layout_height="90px"
+	android:layout_x="160px"
+	android:layout_y="32px" >
+</ImageView>
+
+</AbsoluteLayout>

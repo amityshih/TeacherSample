@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_check_eg">English</string>
+    <string name="app_check_jp">Japanese</string>
+    <string name="app_pushme">按我!</string>
+    <string name="app_female">Female</string>
+    <string name="app_man">Man</string>
+    <string name="app_name">Widgets</string>
+	<string name="app_checkbox">按鈕-[CheckBox]</string>
+	<string name="app_radiobutton">按鈕-[RadioButton]</string>
+	<string name="app_registe">簽到時間</string>
+	<string name="app_time">顯示簽到時間</string>
+	<string name="planet_prompt">請選擇一個行星</string>
+	<string name="app_name_Button">Widgets_Button</string>
+	<string name="app_name_DateTimePicker">Widgets_DateTimePicker</string>
+	<string name="app_name_Clock">Widgets_Clock</string>
+	<string name="app_name_Chronometer">Widgets_Chronometer</string>
+	<string name="app_name_Edit">Widgets_Edit</string>
+	<string name="app_name_Gallery">Widgets_Gallery</string>
+	<string name="app_name_Misc">Widgets_Misc</string>
+	<string name="app_name_Popup">Widgets_Popup</string>
+	<string name="app_name_Progress">Widgets_Progress</string>
+	<string name="app_name_Spinner">Widgets_Spinner</string>
+	<string name="app_name_Video">Widgets_Video</string>
+	<string name="app_name_Grid">Widgets_Grid</string>
+</resources>
+

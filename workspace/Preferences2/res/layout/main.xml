@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:id="@+id/linLayou1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="#ff0000ff"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TextView
+android:id="@+id/captionBox"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="SharedPreferences Container: Customer Data"
+android:layout_margin="5px" android:textStyle="bold">
+</TextView>
+<EditText
+android:id="@+id/txtPref"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_margin="10px"
+>
+</EditText>
+</LinearLayout>

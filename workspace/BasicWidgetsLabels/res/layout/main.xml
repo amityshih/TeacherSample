@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/absLayout"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TextView
+	android:id="@+id/myTextView1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:background="#ff0000ff"
+	android:padding="3px"
+	android:text="Enter User Name"
+	android:textSize="16sp"
+	android:textStyle="bold"
+	android:gravity="center"
+	android:layout_x="20px"
+	android:layout_y="22px" >
+</TextView>
+</AbsoluteLayout>

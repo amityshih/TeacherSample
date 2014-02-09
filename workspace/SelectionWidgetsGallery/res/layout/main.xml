@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+>
+<TextView
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:text="SDK2.1 /samples/.../view/Gallery1.java"
+/>
+<TextView
+	android:id="@+id/mySelection"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:background="#ff0000ff"
+/>
+<Gallery
+	android:id=	"@+id/myGallery"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:gravity="bottom"
+/>
+
+<ImageView
+    android:id="@+id/myImage"
+    android:layout_width="300px"
+	android:layout_height="300px"
+	/>    
+</LinearLayout>

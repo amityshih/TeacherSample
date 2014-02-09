@@ -1,0 +1,10 @@
+A PAMGRAM is a sentence
+that contains all letters of
+a given alphabeth.
+As an exmaple (in English language)
+
+"The quick brown fox 
+jumps over a lazy dog"
+
+uses each of the 26 letters of the alphabet
+at least once.
