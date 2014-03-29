@@ -1,0 +1,5 @@
+CVView.setVideoURI(Uri.parse("http://www.dubblogs.cc:8751/Android/Test/Media/mp4/test.mp4"))
+
+android:name="android.permission.INTERNET?:?
+
+Allows applications to open network sockets
